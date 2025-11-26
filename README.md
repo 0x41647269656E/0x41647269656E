@@ -4,7 +4,7 @@ My name is 0x 41 64 72 69 65 6E.
 
 I publish projects that helped me automate common tasks in my daily life as an IT consultant in the hope that it will help someone who might be experiencing the same problems as me.
 
-🔭 I’m currently working on a bookmark sorter for Chrome using Python.
+🔭 I’m currently working on my homelab how-to guide using [Obsidian](https://obsidian.md/).
 
 <!--
 **0x41647269656E/0x41647269656E** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
