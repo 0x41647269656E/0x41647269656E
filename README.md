@@ -9,6 +9,7 @@ I publish projects that helped me automate common tasks in my daily life as an I
 🔭 I’m currently working on my elasticsearch audit automator.
 
 TODO : Bookmark sorter for Chrome in Python
+TODO : Discord bot to advertise availability of my jellyfin cluster
 
 <!--
 **0x41647269656E/0x41647269656E** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
