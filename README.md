@@ -5,6 +5,7 @@ My name is 0x 41 64 72 69 65 6E.
 I publish projects that helped me automate common tasks in my daily life as an IT consultant in the hope that it will help someone who might be experiencing the same problems as me.
 
 🔭 I’m currently working on my homelab how-to guide using [Obsidian](https://obsidian.md/).
+
 🔭 I’m currently working on my elasticsearch audit automator.
 
 TODO : Bookmark sorter for Chrome in Python
