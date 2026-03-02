@@ -7,6 +7,7 @@ My name is 0x 41 64 72 69 65 6E.
 
 I publish projects that helped me automate common tasks in my daily life as an IT consultant in the hope that it will help someone who might be experiencing the same problems as me.
 
+Here is the list of tools, programming languages, and platforms I am interested in :
 <img src="https://skillicons.dev/icons?i=git,github,gitlab,ansible,arduino,aws,azure,babel,bash,bootstrap,c,cpp,cs,cassandra,codepen,css,debian,deno,discord,bots,docker,electron,express,go,gulp,html,js,jquery,kafka,kubernetes,mongodb,mysql,elasticsearch,postgres,redis,sqlite,nodejs,obsidian,ps,php,powershell,postman,py,rabbitmq,selenium,terraform,vite,raspberrypi,react,wordpress" alt="skills logos" /> <br>
 
 🔭 I’m currently working on my homelab how-to guide using [Obsidian](https://obsidian.md/).
