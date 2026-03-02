@@ -1,5 +1,5 @@
 
-[![NewTopWave](https://raw.githubusercontent.com/0x41647269656E/0x41647269656E/9cefa1ba5832a8900b4001a25a4fd0830d1008bd/NewTopWave.svg)
+![NewTopWave](https://raw.githubusercontent.com/0x41647269656E/0x41647269656E/9cefa1ba5832a8900b4001a25a4fd0830d1008bd/NewTopWave.svg)
 
 ## Hello stranger 🥷
 
@@ -27,3 +27,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
 -->
+
+![bottomWave](https://raw.githubusercontent.com/0x41647269656E/0x41647269656E/3adb17e559166f5eec6a2e432ca9711b075bcbb6/NewBottomWave.svg)
