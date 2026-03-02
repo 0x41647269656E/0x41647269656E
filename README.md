@@ -10,7 +10,7 @@ I publish projects that helped me automate common tasks in my daily life as an I
 Here is the list of tools, programming languages, and platforms I am interested in :
 <img src="https://skillicons.dev/icons?i=git,github,gitlab,ansible,arduino,aws,azure,babel,bash,bootstrap,c,cpp,cs,cassandra,codepen,css,debian,deno,discord,bots,docker,electron,express,go,gulp,html,js,jquery,kafka,kubernetes,mongodb,mysql,elasticsearch,postgres,redis,sqlite,nodejs,obsidian,ps,php,powershell,postman,py,rabbitmq,selenium,terraform,vite,raspberrypi,react,wordpress" alt="skills logos" /> <br>
 
-🔭 I’m currently working on my homelab how-to guide using <img src="https://skillicons.dev/icons?i=obisidan" alt="Obisidan" />.<br>
+🔭 I’m currently working on my homelab how-to guide using <img src="https://skillicons.dev/icons?i=obsidian" alt="Obisidan" />.<br>
 🔭 I’m currently working on my elasticsearch audit automator.
 
 <p align="center">
