@@ -1,3 +1,6 @@
+
+[![NewTopWave](https://raw.githubusercontent.com/0x41647269656E/0x41647269656E/9cefa1ba5832a8900b4001a25a4fd0830d1008bd/NewTopWave.svg)
+
 ## Hello stranger 🥷
 
 My name is 0x 41 64 72 69 65 6E.
