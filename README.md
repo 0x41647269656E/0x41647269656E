@@ -10,8 +10,15 @@ I publish projects that helped me automate common tasks in my daily life as an I
 <img src="https://skillicons.dev/icons?i=git,github,gitlab,ansible,arduino,aws,azure,babel,bash,bootstrap,c,cpp,cs,cassandra,codepen,css,debian,deno,discord,bots,docker,electron,express,go,gulp,html,js,jquery,kafka,kubernetes,mongodb,mysql,elasticsearch,postgres,redis,sqlite,nodejs,obsidian,ps,php,powershell,postman,py,rabbitmq,selenium,terraform,vite,raspberrypi,react,wordpress" alt="skills logos" /> <br>
 
 🔭 I’m currently working on my homelab how-to guide using [Obsidian](https://obsidian.md/).
-
 🔭 I’m currently working on my elasticsearch audit automator.
+
+<p align="center">
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=0x41647269656E&theme=nord_dark" alt="Top Languages by Repo" />
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=0x41647269656E&theme=nord_dark" alt="Top Languages by Commits" />
+</p>
+
+Note: Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  
 
 TODO : Bookmark sorter for Chrome in Python
 TODO : Discord bot to advertise availability of my jellyfin cluster
