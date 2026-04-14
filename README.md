@@ -22,7 +22,8 @@ Note: Top languages is only a metric of the languages my public code consists of
   
 
 TODO : Bookmark sorter for Chrome in Python
-TODO : Discord bot to advertise availability of my jellyfin cluster
+TODO : Discord bot to advertise availability of my jellyfin server and announcements for new movies and tv shows available.
+TODO : App for tourism : Local guidance for points of interests based on tags, distance, vehicule (by foot, bike, car) and friends recommandations
 
 <!--
 **0x41647269656E/0x41647269656E** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
