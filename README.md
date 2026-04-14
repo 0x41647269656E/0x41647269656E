@@ -21,9 +21,9 @@ Here is the list of tools, programming languages, and platforms I am interested 
 Note: Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   
 
-TODO : Bookmark sorter for Chrome in Python
-TODO : Discord bot to advertise availability of my jellyfin server and announcements for new movies and tv shows available.
-TODO : App for tourism : Local guidance for points of interests based on tags, distance, vehicule (by foot, bike, car) and friends recommandations
+TODO : Bookmark sorter for Chrome in Python<br>
+TODO : Discord bot to advertise availability of my jellyfin server and announcements for new movies and tv shows available.<br>
+TODO : App for tourism : Local guidance for points of interests based on tags, distance, vehicule (by foot, bike, car) and friends recommandations<br>
 
 <!--
 **0x41647269656E/0x41647269656E** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
